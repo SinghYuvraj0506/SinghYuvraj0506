@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhyuvraj0506&label=Profile%20views&color=0e75b6&style=flat" alt="singhyuvraj0506" /> </p>
 
-- 🔭 I’m currently working on [Anchors.in](https://www.anchors.in)
+- 🔭 Worked for a startup named [Anchors.in](https://www.anchors.in)
 
 - 🌱 I’m currently learning **AWS, Designing & DSA**
 
