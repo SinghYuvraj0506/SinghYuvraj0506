@@ -1,21 +1,19 @@
 [![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)](https://singh-yuvraj.netlify.app)
 <h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" width="400" src="https://miro.medium.com/max/828/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhyuvraj0506&label=Profile%20views&color=0e75b6&style=flat" alt="singhyuvraj0506" /> </p>
 
-- 🔭 Worked for a startup named [Anchors.in](https://www.anchors.in)
+- 🔭 Working experience of 2.5 years in various businesses and startups
 
-- 🌱 I’m currently learning **AWS, Designing & DSA**
+- 🌱 I’m currently learning **Devops & DSA**
 
-- 👯 I’m looking to collaborate on **Web Devlopement**
+- 👯 I’m looking to collaborate on **Product Development**
 
-- 🤝 I’m looking for help with **AWS and cloud computing**
+- 👨‍💻 All of my projects are available at [https://singh-yuvraj-portfolio.netlify.app/](https://singh-yuvraj-portfolio.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://singh-yuvraj.netlify.app/](https://singh-yuvraj.netlify.app/)
-
-- 💬 Ask me about **React, MERN Stack, AWS, Python, Java**
+- 💬 Ask me about **MERN, React Native, NestJs, NextJS, AWS, Chrome extensions, Python**
 
 - 📫 How to reach me **singhyuvraj0506@gmail.com**
 
